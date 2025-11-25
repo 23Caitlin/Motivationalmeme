@@ -2,6 +2,7 @@
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
   font-style: normal;
+  text-transform: uppercase;
 }
 html{
     color: white;
@@ -15,8 +16,4 @@ div{
   width: 50%;
   text-align: center;
   margin-left: 25%;
-}
-h1{
-  text-transform: uppercase;
-
 }
