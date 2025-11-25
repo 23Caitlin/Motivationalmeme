@@ -10,6 +10,7 @@ html{
 }
 img{
     border: 5px solid white;
+    margin-top: 10%;
     width: 100%;
 }
 div{
@@ -17,3 +18,4 @@ div{
   text-align: center;
   margin-left: 25%;
 }
+
